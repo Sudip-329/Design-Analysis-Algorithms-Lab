@@ -1,0 +1,10 @@
+Q1. Write a program to find out the second smallest and second largest element stored in an array of n elements.
+    ( input on runtime)
+
+Q2. Given an array of size of n , find the prefix sum of the array.(prefix sum array is another array of the same size such that the value of the new array index i=old array index 0 + old array 1 + old 2 + old i
+
+Q3. Write a program to create an array of n integers that must contain some duplicate values.Perform the following operations :
+      !.     Find out the total number of duplicate elements.
+      !!.    Find out the most reapeting element in the array.
+      
+Q4. Write a function rotate_right with perameters array name and integers. The rotate write function will use another function called exchange . Exchange will take as perameters two integers. The Exchange function swaps the two numbers given to.The rotate right function will search for the integer that is passed to it in the array and place it at the end of the array.
