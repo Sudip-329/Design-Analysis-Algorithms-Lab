@@ -11,7 +11,7 @@ The work focuses on fundamental algorithmic paradigms and their practical implem
 
 ## 🛠️ Implementation Details
 
-- Language: C / C++ (as per lab requirement)
+- Language: C (as per lab requirement)
 - Focus:  
   - Time & Space Complexity Analysis  
   - Correctness & Efficiency  
